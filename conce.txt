@@ -1,0 +1,6 @@
+/:home route
+/login:login setup
+server listen
+browser to server using express
+we request the get
+npm init or -y (for yes):node package manager sae intiliatize karna application for empty node 
